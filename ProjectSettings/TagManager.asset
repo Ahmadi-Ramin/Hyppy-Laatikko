@@ -3,10 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags:
   - Floor
   - Wall
   - Platform
+=======
+  tags: []
+>>>>>>> main
   layers:
   - Default
   - TransparentFX
